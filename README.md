@@ -3,3 +3,6 @@
 ##My takeaways
 
 This article highlights the critical role of clear communication and successful background checks in the corporate sphere. To start, a detailed initial statement with more clarity from Unity could potentially have alleviated or even preveneted the ensuing uproar in the gaming community. To end, the election of a better captain at the helm probably would have prevented this whole fiesta entirely. 
+
+#### Patrick Zhao's Comment: 
+A huge part of the Unity fiasco was not just the policy itself, but the way it was communicated. Leaving users with unanswered questions and concerns only exacerbates the backlash.
